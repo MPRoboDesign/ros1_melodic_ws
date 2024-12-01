@@ -1,9 +1,8 @@
 <package>
   <name>ros</name>
-  <version>1.15.8</version>
+  <version>1.14.9</version>
   <description>ROS packaging system</description>
-  <maintainer email="michel@ekumenlabs.com">Michel Hidalgo</maintainer>
-  <maintainer email="jacob@openrobotics.org">Jacob Perron</maintainer>
+  <maintainer email="dthomas@osrfoundation.org">Dirk Thomas</maintainer>
   <license>BSD</license>
 
   <url type="website">http://www.ros.org/wiki/ROS</url>
@@ -17,7 +16,6 @@
   <author>Brian Gerkey</author>
   <author>Jeremy Leibs</author>
   <author>Morgan Quigley</author>
-  <author email="dthomas@openrobotics.org">Dirk Thomas</author>
   <author>Rob Wheeler</author>
 
   <buildtool_depend>catkin</buildtool_depend>

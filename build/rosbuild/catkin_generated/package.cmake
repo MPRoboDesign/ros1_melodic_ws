@@ -1,6 +1,6 @@
 set(_CATKIN_CURRENT_PACKAGE "rosbuild")
-set(rosbuild_VERSION "1.15.8")
-set(rosbuild_MAINTAINER "Michel Hidalgo <michel@ekumenlabs.com>, Jacob Perron <jacob@openrobotics.org>")
+set(rosbuild_VERSION "1.14.9")
+set(rosbuild_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
 set(rosbuild_PACKAGE_FORMAT "1")
 set(rosbuild_BUILD_DEPENDS "pkg-config")
 set(rosbuild_BUILD_EXPORT_DEPENDS "catkin" "message_generation" "message_runtime")

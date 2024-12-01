@@ -1,6 +1,6 @@
 set(_CATKIN_CURRENT_PACKAGE "rosboost_cfg")
-set(rosboost_cfg_VERSION "1.15.8")
-set(rosboost_cfg_MAINTAINER "Michel Hidalgo <michel@ekumenlabs.com>, Jacob Perron <jacob@openrobotics.org>")
+set(rosboost_cfg_VERSION "1.14.9")
+set(rosboost_cfg_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
 set(rosboost_cfg_PACKAGE_FORMAT "3")
 set(rosboost_cfg_BUILD_DEPENDS )
 set(rosboost_cfg_BUILD_EXPORT_DEPENDS )

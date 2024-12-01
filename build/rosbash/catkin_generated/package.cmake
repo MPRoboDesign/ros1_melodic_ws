@@ -1,6 +1,6 @@
 set(_CATKIN_CURRENT_PACKAGE "rosbash")
-set(rosbash_VERSION "1.15.8")
-set(rosbash_MAINTAINER "Michel Hidalgo <michel@ekumenlabs.com>, Jacob Perron <jacob@openrobotics.org>")
+set(rosbash_VERSION "1.14.9")
+set(rosbash_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
 set(rosbash_PACKAGE_FORMAT "1")
 set(rosbash_BUILD_DEPENDS )
 set(rosbash_BUILD_EXPORT_DEPENDS "catkin" "rospack")

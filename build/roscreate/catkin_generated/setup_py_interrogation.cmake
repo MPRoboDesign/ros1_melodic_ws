@@ -1,5 +1,5 @@
 set(roscreate_SETUP_PY_SETUP_MODULE "setuptools")
-set(roscreate_SETUP_PY_VERSION "1.15.8")
+set(roscreate_SETUP_PY_VERSION "1.14.9")
 set(roscreate_SETUP_PY_SCRIPTS "scripts/roscreate-pkg")
 set(roscreate_SETUP_PY_PACKAGES "roscreate")
 set(roscreate_SETUP_PY_PACKAGE_DIRS "src/roscreate")

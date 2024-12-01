@@ -3,3 +3,7 @@
 	url = https://github.com/ros/ros.git
 	branch = melodic-devel
 
+[submodule "src/cmake_modules"]
+	path = src/cmake_modules
+	url = https://github.com/ros/cmake_modules.git
+	branch = 0.4-devel

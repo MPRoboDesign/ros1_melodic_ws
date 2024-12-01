@@ -1,6 +1,6 @@
 set(_CATKIN_CURRENT_PACKAGE "roslang")
-set(roslang_VERSION "1.15.8")
-set(roslang_MAINTAINER "Michel Hidalgo <michel@ekumenlabs.com>, Jacob Perron <jacob@openrobotics.org>")
+set(roslang_VERSION "1.14.9")
+set(roslang_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
 set(roslang_PACKAGE_FORMAT "1")
 set(roslang_BUILD_DEPENDS )
 set(roslang_BUILD_EXPORT_DEPENDS "catkin" "genmsg")

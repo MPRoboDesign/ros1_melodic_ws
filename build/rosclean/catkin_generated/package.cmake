@@ -1,6 +1,6 @@
 set(_CATKIN_CURRENT_PACKAGE "rosclean")
-set(rosclean_VERSION "1.15.8")
-set(rosclean_MAINTAINER "Michel Hidalgo <michel@ekumenlabs.com>, Jacob Perron <jacob@openrobotics.org>")
+set(rosclean_VERSION "1.14.9")
+set(rosclean_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
 set(rosclean_PACKAGE_FORMAT "3")
 set(rosclean_BUILD_DEPENDS )
 set(rosclean_BUILD_EXPORT_DEPENDS )

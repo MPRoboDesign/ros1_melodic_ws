@@ -1,6 +1,6 @@
 set(_CATKIN_CURRENT_PACKAGE "mk")
-set(mk_VERSION "1.15.8")
-set(mk_MAINTAINER "Michel Hidalgo <michel@ekumenlabs.com>, Jacob Perron <jacob@openrobotics.org>")
+set(mk_VERSION "1.14.9")
+set(mk_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
 set(mk_PACKAGE_FORMAT "1")
 set(mk_BUILD_DEPENDS )
 set(mk_BUILD_EXPORT_DEPENDS "rosbuild" "rospack")

@@ -1,6 +1,6 @@
 set(_CATKIN_CURRENT_PACKAGE "rosunit")
-set(rosunit_VERSION "1.15.8")
-set(rosunit_MAINTAINER "Michel Hidalgo <michel@ekumenlabs.com>, Jacob Perron <jacob@openrobotics.org>")
+set(rosunit_VERSION "1.14.9")
+set(rosunit_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
 set(rosunit_PACKAGE_FORMAT "3")
 set(rosunit_BUILD_DEPENDS )
 set(rosunit_BUILD_EXPORT_DEPENDS )

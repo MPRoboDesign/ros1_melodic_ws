@@ -1,5 +1,5 @@
 set(rosmake_SETUP_PY_SETUP_MODULE "setuptools")
-set(rosmake_SETUP_PY_VERSION "1.15.8")
+set(rosmake_SETUP_PY_VERSION "1.14.9")
 set(rosmake_SETUP_PY_SCRIPTS "scripts/rosmake")
 set(rosmake_SETUP_PY_PACKAGES "rosmake")
 set(rosmake_SETUP_PY_PACKAGE_DIRS "src/rosmake")

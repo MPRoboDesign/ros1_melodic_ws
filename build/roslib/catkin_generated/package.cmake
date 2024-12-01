@@ -1,6 +1,6 @@
 set(_CATKIN_CURRENT_PACKAGE "roslib")
-set(roslib_VERSION "1.15.8")
-set(roslib_MAINTAINER "Michel Hidalgo <michel@ekumenlabs.com>, Jacob Perron <jacob@openrobotics.org>")
+set(roslib_VERSION "1.14.9")
+set(roslib_MAINTAINER "Dirk Thomas <dthomas@osrfoundation.org>")
 set(roslib_PACKAGE_FORMAT "3")
 set(roslib_BUILD_DEPENDS "libboost-thread-dev" "rospack")
 set(roslib_BUILD_EXPORT_DEPENDS "rospack")
