@@ -1,0 +1,3 @@
+[submodule "src/ros"]
+	path = src/ros
+	url = https://github.com/ros/ros.git
