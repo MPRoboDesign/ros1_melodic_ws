@@ -1,0 +1,5 @@
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/roscreate/cmake/roscreateConfig.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/roscreate/cmake/roscreateConfig-version.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/bin/roscreate-pkg
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/pkgconfig/roscreate.pc
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/python3/dist-packages/roscreate/__init__.py

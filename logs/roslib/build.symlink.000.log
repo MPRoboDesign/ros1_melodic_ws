@@ -1,0 +1,8 @@
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/roslib/cmake/roslib-extras.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/roslib/cmake/roslibConfig.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/roslib/cmake/roslibConfig-version.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/libroslib.so
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/pkgconfig/roslib.pc
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/roslib/gendeps
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/python3/dist-packages/ros/__init__.py
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/python3/dist-packages/roslib/__init__.py

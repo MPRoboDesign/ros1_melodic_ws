@@ -1,0 +1,5 @@
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/rosboost_cfg/cmake/rosboost_cfgConfig-version.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/rosboost_cfg/cmake/rosboost_cfgConfig.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/bin/rosboost-cfg
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/pkgconfig/rosboost_cfg.pc
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/python3/dist-packages/rosboost_cfg/__init__.py

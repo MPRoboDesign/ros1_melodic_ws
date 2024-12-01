@@ -1,0 +1,8 @@
+prefix=/home/madhav/Documents/ros1_melodic_ws/devel/.private/roslib
+
+Name: roslib
+Description: Description of roslib
+Version: 1.15.8
+Cflags: -I/home/madhav/Documents/ros1_melodic_ws/src/ros/core/roslib/include
+Libs: -L${prefix}/lib -lroslib
+Requires: rospack

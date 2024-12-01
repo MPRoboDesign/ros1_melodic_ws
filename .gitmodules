@@ -1,3 +1,7 @@
 [submodule "src/ros"]
 	path = src/ros
 	url = https://github.com/ros/ros.git
+[submodule "ros"]
+	path = ros
+	url = https://github.com/ros/ros.git
+	branch = melodic-devel

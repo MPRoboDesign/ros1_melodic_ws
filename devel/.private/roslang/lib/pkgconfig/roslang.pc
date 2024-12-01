@@ -1,0 +1,8 @@
+prefix=/home/madhav/Documents/ros1_melodic_ws/devel/.private/roslang
+
+Name: roslang
+Description: Description of roslang
+Version: 1.15.8
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

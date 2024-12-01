@@ -1,0 +1,6 @@
+devel_space: /home/madhav/Documents/ros1_melodic_ws/devel
+install: false
+install_space: /home/madhav/Documents/ros1_melodic_ws/install
+profile: default
+source_space: /home/madhav/Documents/ros1_melodic_ws/src
+workspace: /home/madhav/Documents/ros1_melodic_ws

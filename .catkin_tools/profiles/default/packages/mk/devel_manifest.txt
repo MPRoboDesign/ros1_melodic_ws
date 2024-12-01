@@ -1,0 +1,4 @@
+ros/core/mk
+/home/madhav/Documents/ros1_melodic_ws/devel/.private/mk/share/mk/cmake/mkConfig-version.cmake /home/madhav/Documents/ros1_melodic_ws/devel/share/mk/cmake/mkConfig-version.cmake
+/home/madhav/Documents/ros1_melodic_ws/devel/.private/mk/share/mk/cmake/mkConfig.cmake /home/madhav/Documents/ros1_melodic_ws/devel/share/mk/cmake/mkConfig.cmake
+/home/madhav/Documents/ros1_melodic_ws/devel/.private/mk/lib/pkgconfig/mk.pc /home/madhav/Documents/ros1_melodic_ws/devel/lib/pkgconfig/mk.pc

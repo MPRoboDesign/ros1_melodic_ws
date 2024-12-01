@@ -1,0 +1,8 @@
+prefix=/home/madhav/Documents/ros1_melodic_ws/devel/.private/rosboost_cfg
+
+Name: rosboost_cfg
+Description: Description of rosboost_cfg
+Version: 1.15.8
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,13 @@
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/./_setup_util.py
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/./local_setup.sh
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/./local_setup.zsh
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/./setup.bash
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/./setup.zsh
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/./setup.sh
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/./env.sh
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/./local_setup.fish
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/./setup.fish
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/./local_setup.bash
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/pkgconfig/catkin_tools_prebuild.pc

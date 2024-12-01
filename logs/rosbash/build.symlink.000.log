@@ -1,0 +1,8 @@
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/etc/catkin/profile.d/15.rosbash.zsh
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/etc/catkin/profile.d/15.rosbash.bash
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/etc/catkin/profile.d/15.rosbash.tcsh
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/etc/catkin/profile.d/15.rosbash.fish
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/rosbash/cmake/rosbashConfig-version.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/rosbash/cmake/rosbashConfig.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/bin/rosrun
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/pkgconfig/rosbash.pc

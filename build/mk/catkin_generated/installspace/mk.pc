@@ -1,0 +1,8 @@
+prefix=/home/madhav/Documents/ros1_melodic_ws/install
+
+Name: mk
+Description: Description of mk
+Version: 1.15.8
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

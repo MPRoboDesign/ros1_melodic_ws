@@ -1,0 +1,3 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/roslib.dir/src/package.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/madhav/Documents/ros1_melodic_ws/devel/.private/roslib/lib/libroslib.so[0m
+[100%] Built target roslib

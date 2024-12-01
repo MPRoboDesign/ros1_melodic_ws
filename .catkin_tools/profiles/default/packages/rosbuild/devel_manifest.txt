@@ -1,0 +1,8 @@
+ros/core/rosbuild
+/home/madhav/Documents/ros1_melodic_ws/devel/.private/rosbuild/etc/catkin/profile.d/10.rosbuild.sh /home/madhav/Documents/ros1_melodic_ws/devel/etc/catkin/profile.d/10.rosbuild.sh
+/home/madhav/Documents/ros1_melodic_ws/devel/.private/rosbuild/share/rosbuild/cmake/rosbuildConfig-version.cmake /home/madhav/Documents/ros1_melodic_ws/devel/share/rosbuild/cmake/rosbuildConfig-version.cmake
+/home/madhav/Documents/ros1_melodic_ws/devel/.private/rosbuild/share/rosbuild/cmake/rosbuildConfig.cmake /home/madhav/Documents/ros1_melodic_ws/devel/share/rosbuild/cmake/rosbuildConfig.cmake
+/home/madhav/Documents/ros1_melodic_ws/devel/.private/rosbuild/share/ros/core/rosbuild/tests/count_cores.py /home/madhav/Documents/ros1_melodic_ws/devel/share/ros/core/rosbuild/tests/count_cores.py
+/home/madhav/Documents/ros1_melodic_ws/devel/.private/rosbuild/share/ros/core/rosbuild/bin/check_same_directories.py /home/madhav/Documents/ros1_melodic_ws/devel/share/ros/core/rosbuild/bin/check_same_directories.py
+/home/madhav/Documents/ros1_melodic_ws/devel/.private/rosbuild/share/ros/core/rosbuild/bin/download_checkmd5.py /home/madhav/Documents/ros1_melodic_ws/devel/share/ros/core/rosbuild/bin/download_checkmd5.py
+/home/madhav/Documents/ros1_melodic_ws/devel/.private/rosbuild/lib/pkgconfig/rosbuild.pc /home/madhav/Documents/ros1_melodic_ws/devel/lib/pkgconfig/rosbuild.pc
