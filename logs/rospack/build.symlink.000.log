@@ -1,0 +1,6 @@
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/rospack/cmake/rospackConfig-version.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/rospack/cmake/rospackConfig.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/bin/rosstack
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/bin/rospack
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/librospack.so
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/pkgconfig/rospack.pc

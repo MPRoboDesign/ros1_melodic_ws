@@ -7,3 +7,7 @@
 	path = src/cmake_modules
 	url = https://github.com/ros/cmake_modules.git
 	branch = 0.4-devel
+[submodule "src/rospack"]
+	path = src/rospack
+	url = https://github.com/ros/rospack.git
+	branch = melodic-devel
