@@ -1,0 +1,8 @@
+prefix=/home/madhav/Documents/ros1_melodic_ws/devel/.private/gencpp
+
+Name: gencpp
+Description: Description of gencpp
+Version: 0.6.6
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: genmsg

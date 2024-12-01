@@ -1,0 +1,9 @@
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/rosbag/cmake/rosbagConfig-version.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/rosbag/cmake/rosbagConfig.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/bin/rosbag
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/librosbag.so
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/rosbag/encrypt
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/rosbag/record
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/rosbag/play
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/pkgconfig/rosbag.pc
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/python3/dist-packages/rosbag/__init__.py

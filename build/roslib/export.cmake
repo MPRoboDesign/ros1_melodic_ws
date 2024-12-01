@@ -50,7 +50,7 @@ unset(_cmake_expected_targets)
 add_library(roslib SHARED IMPORTED)
 
 set_target_properties(roslib PROPERTIES
-  INTERFACE_LINK_LIBRARIES "Boost::thread;/home/madhav/Documents/gut_chrono_traverse/ros_melodic_install/devel/.private/rospack/lib/librospack.so;/usr/lib/x86_64-linux-gnu/libpython3.8.so;/usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0;/usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0;/usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0;/usr/lib/x86_64-linux-gnu/libtinyxml2.so;rt"
+  INTERFACE_LINK_LIBRARIES "Boost::thread;/home/madhav/Documents/ros1_melodic_ws/devel/.private/rospack/lib/librospack.so;/usr/lib/x86_64-linux-gnu/libpython3.8.so;/usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0;/usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0;/usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0;/usr/lib/x86_64-linux-gnu/libtinyxml2.so;rt"
 )
 
 # Import target "roslib" for configuration ""

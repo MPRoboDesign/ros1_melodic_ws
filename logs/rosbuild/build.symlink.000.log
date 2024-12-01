@@ -1,7 +1,0 @@
-Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/etc/catkin/profile.d/10.rosbuild.sh
-Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/rosbuild/cmake/rosbuildConfig-version.cmake
-Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/rosbuild/cmake/rosbuildConfig.cmake
-Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/ros/core/rosbuild/tests/count_cores.py
-Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/ros/core/rosbuild/bin/check_same_directories.py
-Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/ros/core/rosbuild/bin/download_checkmd5.py
-Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/pkgconfig/rosbuild.pc

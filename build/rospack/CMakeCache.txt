@@ -437,7 +437,7 @@ boost_program_options_DIR:PATH=/usr/lib/x86_64-linux-gnu/cmake/boost_program_opt
 boost_system_DIR:PATH=/usr/lib/x86_64-linux-gnu/cmake/boost_system-1.71.0
 
 //The directory containing a CMake configuration file for catkin.
-catkin_DIR:PATH=/home/madhav/Documents/gut_chrono_traverse/ros_melodic_install/devel/share/catkin/cmake
+catkin_DIR:PATH=/home/madhav/Documents/ros1_melodic_ws/devel/share/catkin/cmake
 
 //The directory containing a CMake configuration file for cmake_modules.
 cmake_modules_DIR:PATH=/home/madhav/Documents/ros1_melodic_ws/devel/share/cmake_modules/cmake

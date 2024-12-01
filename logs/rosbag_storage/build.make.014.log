@@ -1,0 +1,5 @@
+[ 75%] Built target rosbag_storage
+[ 81%] [32mBuilding CXX object CMakeFiles/rosbag_default_encryption_plugins.dir/src/aes_encryptor.cpp.o[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/rosbag_default_encryption_plugins.dir/src/gpgme_utils.cpp.o[0m
+[ 93%] [32m[1mLinking CXX shared library /home/madhav/Documents/ros1_melodic_ws/devel/.private/rosbag_storage/lib/librosbag_default_encryption_plugins.so[0m
+[100%] Built target rosbag_default_encryption_plugins

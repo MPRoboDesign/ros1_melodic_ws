@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DROS_BUILD_SHARED_LIBS=1 -Droslib_EXPORTS
 
-CXX_INCLUDES = -I/home/madhav/Documents/ros1_melodic_ws/src/ros/core/roslib/include -I/home/madhav/Documents/gut_chrono_traverse/ros_melodic_install/src/rospack/include
+CXX_INCLUDES = -I/home/madhav/Documents/ros1_melodic_ws/src/ros/core/roslib/include -I/home/madhav/Documents/ros1_melodic_ws/src/rospack/include
 
 CXX_FLAGS = -fPIC
 

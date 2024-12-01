@@ -67,7 +67,7 @@ include test/CMakeFiles/clean_test_results_rospack.dir/compiler_depend.make
 include test/CMakeFiles/clean_test_results_rospack.dir/progress.make
 
 test/CMakeFiles/clean_test_results_rospack:
-	cd /home/madhav/Documents/ros1_melodic_ws/build/rospack/test && /usr/bin/python3 /home/madhav/Documents/gut_chrono_traverse/ros_melodic_install/src/catkin/cmake/test/remove_test_results.py /home/madhav/Documents/ros1_melodic_ws/build/rospack/test_results/rospack
+	cd /home/madhav/Documents/ros1_melodic_ws/build/rospack/test && /usr/bin/python3 /home/madhav/Documents/ros1_melodic_ws/src/catkin/cmake/test/remove_test_results.py /home/madhav/Documents/ros1_melodic_ws/build/rospack/test_results/rospack
 
 clean_test_results_rospack: test/CMakeFiles/clean_test_results_rospack
 clean_test_results_rospack: test/CMakeFiles/clean_test_results_rospack.dir/build.make

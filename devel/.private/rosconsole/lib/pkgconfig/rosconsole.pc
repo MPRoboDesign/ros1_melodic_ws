@@ -1,0 +1,8 @@
+prefix=/home/madhav/Documents/ros1_melodic_ws/devel/.private/rosconsole
+
+Name: rosconsole
+Description: Description of rosconsole
+Version: 1.13.18
+Cflags: -I/home/madhav/Documents/ros1_melodic_ws/src/rosconsole/include -I/usr/include
+Libs: -L${prefix}/lib -lrosconsole -lrosconsole_print -lrosconsole_backend_interface /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0 /usr/lib/x86_64-linux-gnu/libboost_system.so.1.71.0 /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.71.0
+Requires: cpp_common rostime

@@ -1,0 +1,24 @@
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _topic_tools_generate_messages_check_deps_DemuxSelect
+[  0%] Built target _topic_tools_generate_messages_check_deps_MuxAdd
+[  0%] Built target _topic_tools_generate_messages_check_deps_MuxDelete
+[  0%] Built target _topic_tools_generate_messages_check_deps_MuxList
+[  0%] Built target _topic_tools_generate_messages_check_deps_DemuxAdd
+[  0%] Built target _topic_tools_generate_messages_check_deps_MuxSelect
+[  0%] Built target _topic_tools_generate_messages_check_deps_DemuxDelete
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _topic_tools_generate_messages_check_deps_DemuxList
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[ 16%] Built target topic_tools_generate_messages_nodejs
+[ 33%] Built target topic_tools_generate_messages_cpp
+[ 52%] Built target topic_tools_generate_messages_eus
+[ 68%] Built target topic_tools_generate_messages_lisp
+[ 68%] Built target topic_tools_generate_messages
+[ 75%] Built target topic_tools
+[ 79%] Built target switch_mux
+[ 83%] Built target mux
+[ 87%] Built target demux
+[ 91%] Built target relay
+[ 95%] Built target throttle
+[100%] Built target drop

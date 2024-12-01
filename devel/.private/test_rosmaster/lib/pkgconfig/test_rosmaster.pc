@@ -1,0 +1,8 @@
+prefix=/home/madhav/Documents/ros1_melodic_ws/devel/.private/test_rosmaster
+
+Name: test_rosmaster
+Description: Description of test_rosmaster
+Version: 1.14.13
+Cflags: -I/home/madhav/Documents/ros1_melodic_ws/devel/.private/test_rosmaster/include
+Libs: -L${prefix}/lib 
+Requires: 

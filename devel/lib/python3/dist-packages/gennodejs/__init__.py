@@ -1,0 +1,1 @@
+/home/madhav/Documents/ros1_melodic_ws/devel/.private/gennodejs/lib/python3/dist-packages/gennodejs/__init__.py

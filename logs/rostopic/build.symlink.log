@@ -1,0 +1,5 @@
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/rostopic/cmake/rostopicConfig.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/rostopic/cmake/rostopicConfig-version.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/bin/rostopic
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/pkgconfig/rostopic.pc
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/python3/dist-packages/rostopic/__init__.py

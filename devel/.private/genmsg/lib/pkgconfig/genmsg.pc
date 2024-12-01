@@ -1,0 +1,8 @@
+prefix=/home/madhav/Documents/ros1_melodic_ws/devel/.private/genmsg
+
+Name: genmsg
+Description: Description of genmsg
+Version: 0.5.17
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

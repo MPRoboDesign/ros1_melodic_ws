@@ -1,0 +1,8 @@
+prefix=/home/madhav/Documents/ros1_melodic_ws/devel/.private/test_rostest
+
+Name: test_rostest
+Description: Description of test_rostest
+Version: 1.14.13
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

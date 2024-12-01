@@ -1,0 +1,5 @@
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/rosbag_storage/cmake/rosbag_storageConfig.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/rosbag_storage/cmake/rosbag_storageConfig-version.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/librosbag_storage.so
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/librosbag_default_encryption_plugins.so
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/pkgconfig/rosbag_storage.pc

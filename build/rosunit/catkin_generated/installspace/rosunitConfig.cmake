@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/madhav/Documents/ros1_melodic_ws/install/lib;/home/madhav/Documents/ros1_melodic_ws/devel/lib;/home/madhav/Documents/gut_chrono_traverse/ros_melodic_install/devel/lib)
+    foreach(path /home/madhav/Documents/ros1_melodic_ws/install/lib;/home/madhav/Documents/ros1_melodic_ws/devel/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)
@@ -211,7 +211,7 @@ foreach(depend ${depends})
   _unpack_libraries_with_build_configuration(rosunit_LIBRARIES ${rosunit_LIBRARIES})
 
   _list_append_unique(rosunit_LIBRARY_DIRS ${${rosunit_dep}_LIBRARY_DIRS})
-  _list_append_deduplicate(rosunit_EXPORTED_TARGETS ${${rosunit_dep}_EXPORTED_TARGETS})
+  list(APPEND rosunit_EXPORTED_TARGETS ${${rosunit_dep}_EXPORTED_TARGETS})
 endforeach()
 
 set(pkg_cfg_extras "rosunit-extras.cmake")

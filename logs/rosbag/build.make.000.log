@@ -1,0 +1,23 @@
+[ 30%] [32mBuilding CXX object CMakeFiles/rosbag.dir/src/recorder.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/rosbag.dir/src/player.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/rosbag.dir/src/time_translator.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/encrypt.dir/src/encrypt.cpp.o[0m
+In file included from [01m[K/usr/include/boost/config/header_deprecated.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/progress.hpp:22[m[K,
+                 from [01m[K/home/madhav/Documents/ros1_melodic_ws/src/ros_comm/tools/rosbag/src/encrypt.cpp:39[m[K:
+[01m[K/usr/include/boost/progress.hpp:23:1:[m[K [01;36m[Knote: [m[K#pragma message: This header is deprecated. Use the facilities in <boost/timer/timer.hpp> instead.
+   23 | [01;36m[KBOOST_HEADER_DEPRECATED[m[K( "the facilities in <boost/timer/timer.hpp>" )
+      | [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/boost/timer.hpp:21:1:[m[K [01;36m[Knote: [m[K#pragma message: This header is deprecated. Use the facilities in <boost/timer/timer.hpp> instead.
+   21 | [01;36m[KBOOST_HEADER_DEPRECATED[m[K( "the facilities in <boost/timer/timer.hpp>" )
+      | [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+[ 60%] [32m[1mLinking CXX shared library /home/madhav/Documents/ros1_melodic_ws/devel/.private/rosbag/lib/librosbag.so[0m
+[ 60%] [32m[1mLinking CXX executable /home/madhav/Documents/ros1_melodic_ws/devel/.private/rosbag/lib/rosbag/encrypt[0m
+[ 60%] Built target rosbag
+[ 60%] Built target encrypt
+[ 70%] [32mBuilding CXX object CMakeFiles/play.dir/src/play.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/record.dir/src/record.cpp.o[0m
+[ 90%] [32m[1mLinking CXX executable /home/madhav/Documents/ros1_melodic_ws/devel/.private/rosbag/lib/rosbag/play[0m
+[ 90%] Built target play
+[100%] [32m[1mLinking CXX executable /home/madhav/Documents/ros1_melodic_ws/devel/.private/rosbag/lib/rosbag/record[0m
+[100%] Built target record

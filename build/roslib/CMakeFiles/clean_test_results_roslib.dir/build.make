@@ -67,7 +67,7 @@ include CMakeFiles/clean_test_results_roslib.dir/compiler_depend.make
 include CMakeFiles/clean_test_results_roslib.dir/progress.make
 
 CMakeFiles/clean_test_results_roslib:
-	/usr/bin/python3 /home/madhav/Documents/gut_chrono_traverse/ros_melodic_install/src/catkin/cmake/test/remove_test_results.py /home/madhav/Documents/ros1_melodic_ws/build/roslib/test_results/roslib
+	/usr/bin/python3 /home/madhav/Documents/ros1_melodic_ws/src/catkin/cmake/test/remove_test_results.py /home/madhav/Documents/ros1_melodic_ws/build/roslib/test_results/roslib
 
 clean_test_results_roslib: CMakeFiles/clean_test_results_roslib
 clean_test_results_roslib: CMakeFiles/clean_test_results_roslib.dir/build.make

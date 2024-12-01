@@ -1,0 +1,1 @@
+/home/madhav/Documents/ros1_melodic_ws/devel/.private/rosconsole/etc/catkin/profile.d/10.rosconsole.sh

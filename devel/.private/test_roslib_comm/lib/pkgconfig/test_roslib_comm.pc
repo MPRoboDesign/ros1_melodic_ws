@@ -1,0 +1,8 @@
+prefix=/home/madhav/Documents/ros1_melodic_ws/devel/.private/test_roslib_comm
+
+Name: test_roslib_comm
+Description: Description of test_roslib_comm
+Version: 1.14.13
+Cflags: -I/home/madhav/Documents/ros1_melodic_ws/devel/.private/test_roslib_comm/include
+Libs: -L${prefix}/lib 
+Requires: 

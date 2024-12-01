@@ -1,0 +1,7 @@
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/rosmsg/cmake/rosmsgConfig.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/rosmsg/cmake/rosmsgConfig-version.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/bin/rossrv
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/bin/rosmsg
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/bin/rosmsg-proto
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/pkgconfig/rosmsg.pc
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/python3/dist-packages/rosmsg/__init__.py

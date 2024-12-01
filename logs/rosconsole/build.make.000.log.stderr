@@ -1,0 +1,27 @@
+[01m[K/home/madhav/Documents/ros1_melodic_ws/src/rosconsole/src/rosconsole/impl/rosconsole_print.cpp:[m[K In function ‘[01m[Kvoid ros::console::impl::print(void*, ros::console::Level, const char*, const char*, const char*, int)[m[K’:
+[01m[K/home/madhav/Documents/ros1_melodic_ws/src/rosconsole/src/rosconsole/impl/rosconsole_print.cpp:46:18:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Khandle[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   46 | void print([01;35m[Kvoid* handle[m[K, ::ros::console::Level level, const char* str, const char* file, const char* function, int line)
+      |            [01;35m[K~~~~~~^~~~~~[m[K
+[01m[K/home/madhav/Documents/ros1_melodic_ws/src/rosconsole/src/rosconsole/impl/rosconsole_print.cpp:[m[K In function ‘[01m[Kbool ros::console::impl::isEnabledFor(void*, ros::console::Level)[m[K’:
+[01m[K/home/madhav/Documents/ros1_melodic_ws/src/rosconsole/src/rosconsole/impl/rosconsole_print.cpp:55:25:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Khandle[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   55 | bool isEnabledFor([01;35m[Kvoid* handle[m[K, ::ros::console::Level level)
+      |                   [01;35m[K~~~~~~^~~~~~[m[K
+[01m[K/home/madhav/Documents/ros1_melodic_ws/src/rosconsole/src/rosconsole/impl/rosconsole_print.cpp:[m[K In function ‘[01m[Kvoid* ros::console::impl::getHandle(const string&)[m[K’:
+[01m[K/home/madhav/Documents/ros1_melodic_ws/src/rosconsole/src/rosconsole/impl/rosconsole_print.cpp:60:36:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kname[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   60 | void* getHandle([01;35m[Kconst std::string& name[m[K)
+      |                 [01;35m[K~~~~~~~~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/madhav/Documents/ros1_melodic_ws/src/rosconsole/src/rosconsole/impl/rosconsole_print.cpp:[m[K In function ‘[01m[Kstd::string ros::console::impl::getName(void*)[m[K’:
+[01m[K/home/madhav/Documents/ros1_melodic_ws/src/rosconsole/src/rosconsole/impl/rosconsole_print.cpp:65:27:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Khandle[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   65 | std::string getName([01;35m[Kvoid* handle[m[K)
+      |                     [01;35m[K~~~~~~^~~~~~[m[K
+[01m[K/home/madhav/Documents/ros1_melodic_ws/src/rosconsole/src/rosconsole/impl/rosconsole_print.cpp:[m[K In function ‘[01m[Kbool ros::console::impl::get_loggers(std::map<std::__cxx11::basic_string<char>, ros::console::levels::Level>&)[m[K’:
+[01m[K/home/madhav/Documents/ros1_melodic_ws/src/rosconsole/src/rosconsole/impl/rosconsole_print.cpp:85:56:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kloggers[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   85 | bool get_loggers([01;35m[Kstd::map<std::string, levels::Level>& loggers[m[K)
+      |                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
+[01m[K/home/madhav/Documents/ros1_melodic_ws/src/rosconsole/src/rosconsole/impl/rosconsole_print.cpp:[m[K In function ‘[01m[Kbool ros::console::impl::set_logger_level(const string&, ros::console::levels::Level)[m[K’:
+[01m[K/home/madhav/Documents/ros1_melodic_ws/src/rosconsole/src/rosconsole/impl/rosconsole_print.cpp:90:42:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kname[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   90 | bool set_logger_level([01;35m[Kconst std::string& name[m[K, levels::Level level)
+      |                       [01;35m[K~~~~~~~~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/madhav/Documents/ros1_melodic_ws/src/rosconsole/src/rosconsole/impl/rosconsole_print.cpp:90:62:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Klevel[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   90 | bool set_logger_level(const std::string& name, [01;35m[Klevels::Level level[m[K)
+      |                                                [01;35m[K~~~~~~~~~~~~~~^~~~~[m[K

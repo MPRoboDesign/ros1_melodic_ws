@@ -11,7 +11,76 @@
 	path = src/rospack
 	url = https://github.com/ros/rospack.git
 	branch = melodic-devel
+
 [submodule "src/ros_comm_msgs"]
 	path = src/ros_comm_msgs
 	url = https://github.com/ros/ros_comm_msgs.git
 	branch = kinetic-devel
+[submodule "src/catkin"]
+	path = src/catkin
+	url = https://github.com/ros/catkin.git
+	branch = kinetic-devel
+[submodule "src/message_generation"]
+	path = src/message_generation
+	url = https://github.com/ros/message_generation.git
+	branch = kinetic-devel
+[submodule "src/gencpp"]
+	path = src/gencpp
+	url = https://github.com/ros/gencpp.git
+	branch = melodic-devel
+[submodule "src/genmsg"]
+	path = src/genmsg
+	url = https://github.com/ros/genmsg.git
+	branch = melodic-devel
+[submodule "src/geneus"]
+	path = src/geneus
+	url = https://github.com/jsk-ros-pkg/geneus.git
+	branch = master
+[submodule "src/gennodejs"]
+	path = src/gennodejs
+	url = https://github.com/RethinkRobotics-opensource/gennodejs.git
+	branch = kinetic-devel
+[submodule "src/genlisp"]
+	path = src/genlisp
+	url = https://github.com/ros/genlisp.git
+	branch = kinetic-devel
+[submodule "src/std_msgs"]
+	path = src/std_msgs
+	url = https://github.com/ros/std_msgs.git
+	branch = kinetic-devel
+[submodule "src/message_runtime"]
+	path = src/message_runtime
+	url = https://github.com/ros/message_runtime.git
+	branch = kinetic-devel
+[submodule "src/roscpp_core"]
+	path = src/roscpp_core
+	url = https://github.com/ros/roscpp_core.git
+	branch = kinetic-devel
+[submodule "src/ros_comm"]
+	path = src/ros_comm
+	url = https://github.com/ros/ros_comm.git
+	branch = melodic-devel
+[submodule "src/rosconsole"]
+	path = src/rosconsole
+	url = https://github.com/ros/rosconsole.git
+	branch = melodic-devel
+[submodule "src/pluginlib"]
+	path = src/pluginlib
+	url = https://github.com/ros/pluginlib.git
+	branch = melodic-devel
+[submodule "src/class_loader"]
+	path = src/class_loader
+	url = https://github.com/ros/class_loader.git
+	branch = melodic-devel
+[submodule "src/bzip2"]
+	path = src/bzip2
+	url = https://github.com/libarchive/bzip2.git
+	branch = master
+[submodule "src/gnupg"]
+	path = src/gnupg
+	url = git://git.gnupg.org/gnupg.git
+	branch = master
+[submodule "src/gpgme"]
+	path = src/gpgme
+	url = https://github.com/rwinlib/gpgme.git
+	branch = master

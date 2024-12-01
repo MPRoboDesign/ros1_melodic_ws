@@ -1,0 +1,5 @@
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/rosnode/cmake/rosnodeConfig.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/share/rosnode/cmake/rosnodeConfig-version.cmake
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/bin/rosnode
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/pkgconfig/rosnode.pc
+Symlinking /home/madhav/Documents/ros1_melodic_ws/devel/lib/python3/dist-packages/rosnode/__init__.py

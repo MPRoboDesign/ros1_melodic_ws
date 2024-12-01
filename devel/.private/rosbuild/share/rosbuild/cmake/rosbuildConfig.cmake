@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/madhav/Documents/ros1_melodic_ws/devel/.private/rosbuild/lib;/home/madhav/Documents/ros1_melodic_ws/devel/lib;/home/madhav/Documents/gut_chrono_traverse/ros_melodic_install/devel/lib)
+    foreach(path /home/madhav/Documents/ros1_melodic_ws/devel/.private/rosbuild/lib;/home/madhav/Documents/ros1_melodic_ws/devel/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)
@@ -211,7 +211,7 @@ foreach(depend ${depends})
   _unpack_libraries_with_build_configuration(rosbuild_LIBRARIES ${rosbuild_LIBRARIES})
 
   _list_append_unique(rosbuild_LIBRARY_DIRS ${${rosbuild_dep}_LIBRARY_DIRS})
-  _list_append_deduplicate(rosbuild_EXPORTED_TARGETS ${${rosbuild_dep}_EXPORTED_TARGETS})
+  list(APPEND rosbuild_EXPORTED_TARGETS ${${rosbuild_dep}_EXPORTED_TARGETS})
 endforeach()
 
 set(pkg_cfg_extras "")

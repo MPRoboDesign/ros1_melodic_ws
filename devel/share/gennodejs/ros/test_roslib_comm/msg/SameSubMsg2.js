@@ -1,0 +1,1 @@
+/home/madhav/Documents/ros1_melodic_ws/devel/.private/test_roslib_comm/share/gennodejs/ros/test_roslib_comm/msg/SameSubMsg2.js

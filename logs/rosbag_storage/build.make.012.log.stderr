@@ -1,0 +1,15 @@
+In file included from [01m[K/home/madhav/Documents/ros1_melodic_ws/src/ros_comm/tools/rosbag_storage/src/gpgme_utils.cpp:35[m[K:
+[01m[K/home/madhav/Documents/ros1_melodic_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/gpgme_utils.h:41:12:[m[K [01;31m[Kfatal error: [m[Kgpgme.h: No such file or directory
+   41 |   #include [01;31m[K<gpgme.h>[m[K
+      |            [01;31m[K^~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/rosbag_default_encryption_plugins.dir/build.make:90: CMakeFiles/rosbag_default_encryption_plugins.dir/src/gpgme_utils.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+In file included from [01m[K/home/madhav/Documents/ros1_melodic_ws/src/ros_comm/tools/rosbag_storage/src/aes_encryptor.cpp:37[m[K:
+[01m[K/home/madhav/Documents/ros1_melodic_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/gpgme_utils.h:41:12:[m[K [01;31m[Kfatal error: [m[Kgpgme.h: No such file or directory
+   41 |   #include [01;31m[K<gpgme.h>[m[K
+      |            [01;31m[K^~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/rosbag_default_encryption_plugins.dir/build.make:76: CMakeFiles/rosbag_default_encryption_plugins.dir/src/aes_encryptor.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:412: CMakeFiles/rosbag_default_encryption_plugins.dir/all] Error 2
+make: *** [Makefile:146: all] Error 2

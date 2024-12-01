@@ -1,0 +1,8 @@
+prefix=/home/madhav/Documents/ros1_melodic_ws/install
+
+Name: rosbag_storage
+Description: Description of rosbag_storage
+Version: 1.14.13
+Cflags: -I${prefix}/include -I/opt/ros/galactic/include -I/usr/include
+Libs: -L${prefix}/lib -lrosbag_storage /opt/ros/galactic/lib/x86_64-linux-gnu/libconsole_bridge.so.1.0 /usr/lib/x86_64-linux-gnu/libboost_date_time.so.1.71.0 /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.71.0 /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.71.0 /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.71.0
+Requires: pluginlib roslz4
