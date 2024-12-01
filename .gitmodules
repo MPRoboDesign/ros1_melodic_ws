@@ -11,3 +11,7 @@
 	path = src/rospack
 	url = https://github.com/ros/rospack.git
 	branch = melodic-devel
+[submodule "src/ros_comm_msgs"]
+	path = src/ros_comm_msgs
+	url = https://github.com/ros/ros_comm_msgs.git
+	branch = kinetic-devel
